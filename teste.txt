@@ -1,1 +1,4 @@
-Informação inserida no repositório local como parte do exercicio de fixação do aprendizado 
+Informação inserida no repositório LOCAL como parte do exercicio de fixação do aprendizado.
+
+
+informação inserida no repostório REMOTO como parte do exercico de fixação de aprendizado.
